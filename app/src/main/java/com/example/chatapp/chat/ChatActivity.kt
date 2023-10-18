@@ -68,8 +68,7 @@ class ChatActivity : ComponentActivity(), Navigator {
             ChatAppTheme {
                 // A surface container using the 'background' color from the theme
 
-                //chatScreenContent(room, navigator = this)
-                ChatScreenContent(room = Room(), navigator = this@ChatActivity)
+                ChatScreenContent(room = room, navigator = this@ChatActivity)
             }
         }
     }
