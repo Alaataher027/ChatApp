@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_add_room_activity">AddRoomActivity</string>
+    <string name="home">home</string>
+    <string name="create_new_room">Create New Room</string>
+    <string name="add_room_title">Add Room Title</string>
+    <string name="room_title">Room Title</string>
+    <string name="room_desc">Room Description</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="send">Send</string>
+    <string name="chat_room">Caht Room</string>
+</resources>
